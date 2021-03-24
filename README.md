@@ -1,2 +1,2 @@
-# Docker_LinuxTips_Estudos
+# Docker_Estudos
 Material de estudo do curso de docker na linuxtips

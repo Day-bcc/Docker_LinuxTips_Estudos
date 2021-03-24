@@ -1,0 +1,29 @@
+# docker-machine version
+
+#docker-machine create (nome da maquina sem parenteses) --virtualbox-no-vtx-check  - (exemplo para criar uma maquina virtual no vurtual box)
+
+# docker-machine create --driver virtualbox linuxtips - (exemplo para criar uma maquina virtual no vurtual box)
+
+# docker-machine ls
+
+# docker-machine env (nome)
+
+# eval "$(docker-machine env "nome")"
+
+# docker container ls
+
+# docker-machine ip (nome)
+
+# docker-machine ssh (nome)
+
+# docker-machine inspect (nome)
+
+# docker-machine stop (nome)
+
+# docker-machine ls 
+
+# docker-machine start (nome)
+
+# docker-machine rm (nome)
+
+# eval $(docker-machine env -u)
